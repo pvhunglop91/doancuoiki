@@ -374,7 +374,10 @@ include('includes/header.php');
         $("span.total_all_item").text(total_item);
         // alert(total_item);
 
-        
+        // thay doi dong nay chang han
+
+        // comment nha luu lai
+
         $("a.quantity_up").click(function(){
         // alert($("select.ship option").attr('id'));
             
